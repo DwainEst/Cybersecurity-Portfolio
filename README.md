@@ -1,4 +1,4 @@
-# Dwain Esterhuizen | Cybersecurity Portfolio
+# Dwain Esterhuizen | Cybersecurity-Portfolio
 
 Hands-on cybersecurity practitioner focused on penetration testing, vulnerability assessment, and security analysis.
 
