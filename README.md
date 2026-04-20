@@ -1,31 +1,32 @@
-# PROJECTNAME
+# Dwain Esterhuizen | Cybersecurity Portfolio
 
-## Objective
-[Brief Objective - Remove this afterwards]
+Hands-on cybersecurity practitioner focused on penetration testing, vulnerability assessment, and security analysis.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+## 🔍 Focus Areas
+- Windows Security 
+- Linux Security 
+- Active Directory Security
+- Vulnerability Assessment
+- Privilege Escalation (Linux & Windows)
+- Web Application Security
+- OSINT Investigations
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+## ⭐ Featured Work
+- [Shared Object Injection Priv Esc](labs/linux-privesc/shared-object-injection.md)
+- [Next lab here]
+- [Next lab here]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+## 🛠 Tools & Technologies
+- Burp Suite | Nessus | OWASP ZAP
+- Splunk | SIEM Fundamentals
+- Linux | Active Directory | Azure
+- Python | Bash | PowerShell
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
+## 📜 Certifications
+- ISC2 Certified in Cybersecurity (CC)
+- PNPT (in progress)
+- CompTIA Network+
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+## 📫 Contact
+- Email: dwain_est@cyberkeeper.co.za
+- LinkedIn: (your link)
