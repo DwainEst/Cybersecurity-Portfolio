@@ -6,7 +6,6 @@ Hands-on cybersecurity practitioner focused on penetration testing, vulnerabilit
 - Windows Security 
 - Linux Security 
 - Active Directory Security
-- Vulnerability Assessment
 - Privilege Escalation (Linux & Windows)
 - Web Application Security
 - OSINT Investigations
